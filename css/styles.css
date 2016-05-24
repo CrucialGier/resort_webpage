@@ -1,3 +1,25 @@
+h1 {
+  margin-left: 50px;
+  margin-top: 20px;
+  margin-bottom: -7px;
+  font-size: 60px;
+}
+
+.nav_box {
+  margin-left: 35px;
+}
+
 a {
-  margin-right: 10px;
+  margin-left: 20px;
+  font-size: 30px;
+  text-decoration: none;
+}
+
+div {
+  margin: auto;
+  max-width: 1000px;
+}
+
+div p {
+  font-size: 24px;
 }
