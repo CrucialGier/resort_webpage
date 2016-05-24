@@ -44,3 +44,7 @@ div {
 div p {
   font-size: 24px;
 }
+
+.yellow-text {
+  color: yellow;
+}
